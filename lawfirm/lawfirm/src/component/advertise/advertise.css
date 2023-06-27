@@ -1,0 +1,48 @@
+.advertise{
+    left: 80px;
+    width: 90vw;
+    position: absolute;
+    justify-content: space-between;
+    display: flex;
+    top:1081px;
+   
+}
+
+.typo{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
+.text1{
+    width: 387px;
+font-size: 54px;
+font-weight: 600;
+line-height: 87px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.text2{
+font-size: 32px;
+font-weight: 600;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.para{
+font-size: 18px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+hr{
+
+height: 206px;
+
+}
