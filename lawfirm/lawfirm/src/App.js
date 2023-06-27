@@ -1,5 +1,5 @@
 
-import Navbar from './component/LandingPage/landingPage';
+import Navbar from './component/Navbar/navbar';
 import './App.css';
 
 function App() {

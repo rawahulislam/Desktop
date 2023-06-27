@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "../../assets/logo.svg";
-import "./landingPage.css";
+import "./navbar.css";
 
 export default function Navbar() {
   return (
