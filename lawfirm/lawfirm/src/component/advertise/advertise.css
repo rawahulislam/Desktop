@@ -47,3 +47,48 @@ hr{
 height: 206px;
 
 }
+
+.container{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 1615px;
+    left: 196px;
+    gap: 1rem;
+}
+
+.info1{
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.info2{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+opacity: 30%;
+width: 293px;
+}
+.chooseButton{
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: inline;
+    width: fit-content;
+    padding: 1rem;
+    border-radius: 23.5px;
+    background: #E3B748;
+    color: black;
+}
+.card{
+    border-radius: 14px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    gap:1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
