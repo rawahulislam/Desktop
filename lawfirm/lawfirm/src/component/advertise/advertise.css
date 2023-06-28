@@ -1,10 +1,10 @@
 .advertise{
-    left: 80px;
-    width: 90vw;
+    width:-webkit-fill-available;
     position: absolute;
-    justify-content: space-between;
     display: flex;
     top:1081px;
+    justify-content: space-between;
+    margin: 0rem 6rem 0rem 6rem;
    
 }
 
@@ -38,6 +38,7 @@ font-weight: 500;
 line-height: 29px;
 letter-spacing: 0em;
 text-align: left;
+width: 475px;
 
 }
 
