@@ -2,6 +2,7 @@ import "./advertise.css";
 
 export default function Advertise() {
   return (
+    <>
     <div className="advertise">
       <div className="text1">Let's introduce ourself</div>
       <hr/>
@@ -13,5 +14,9 @@ export default function Advertise() {
         </span>
       </div>
     </div>
+    <div className="text1"style={{top:"1441px", textAlign:"center", width:"auto", left:"512px" ,position:"absolute"}}>
+      Why Choose Us?
+    </div>
+    </>
   );
 }
