@@ -83,6 +83,7 @@ width: 293px;
     border-radius: 23.5px;
     background: #E3B748;
     color: black;
+    cursor: pointer;
 }
 .card{
     border-radius: 14px;

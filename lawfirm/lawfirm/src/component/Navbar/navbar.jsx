@@ -5,7 +5,9 @@ import "./navbar.css";
 export default function Navbar() {
   return (
     <div className="navbar">
-      <img src={Logo} alt="logo" />
+      <div style={{display:"flex",alignItems:"center"}}><img src={Logo} alt="logo" />
+      IGSTUDIO</div>
+      
       <div>
         <ul style={{ listStyleType: "none", display: "flex" }}>
           <li>Home</li>
